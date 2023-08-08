@@ -14,7 +14,9 @@ You can get it by:  https://www.jianshu.com/p/5bf937a0d993   or other article is
 ## Training
 
 ### 1. Setup the dataset
-Baidu driver link：https://pan.baidu.com/s/1e9Qc6iUMxC2wCezNHLN6Kw      code：rznb 
+Baidu driver link：https://pan.baidu.com/s/1TjbajGIbNp0Zxf1bXLE98g       code：rznb 
+
+
 
 Alternatively you can build your own dataset by setting up the following directory structure:
 
