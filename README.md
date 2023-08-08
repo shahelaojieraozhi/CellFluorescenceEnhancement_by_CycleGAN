@@ -60,7 +60,7 @@ The original image:
 
 The ideal image
 
-![cell_GT](.\img_bin\cell_GT.png)
+![cell_GT](https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png)
 
 
 
