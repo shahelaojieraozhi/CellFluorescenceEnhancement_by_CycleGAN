@@ -52,7 +52,7 @@ run test.py
 
 The original image:
 
-![cell](.\img_bin\cell.png)
+![cell](https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell.png)
 
 
 
