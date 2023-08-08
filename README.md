@@ -68,7 +68,7 @@ The output of the model:
 
 
 
-![0001](.\img_bin\0001.png)
+![0001](https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png)
 
 ## Acknowledgments
 Code is basically a cleaner and less obscured implementation of [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). 
