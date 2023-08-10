@@ -64,6 +64,11 @@ The ideal image
 
 
 
+<div align=center>
+<img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png" width="180" height="105">
+</div>
+
+
 The output of the model:
 
 
