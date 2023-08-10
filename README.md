@@ -72,8 +72,12 @@ The output of the model:
 <img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png">
 </div>
 
+<div align=center>
 <img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell.png"><img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png"><img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png">
+</div>
 
+
+The order of the images is:    The original image    The ideal image    The output of the model
 
 
 ## Acknowledgments
