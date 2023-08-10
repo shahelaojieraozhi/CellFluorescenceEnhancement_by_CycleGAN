@@ -7,7 +7,7 @@ Description: A clean and readable Pytorch implementation of CycleGAN (https://ar
 
 learning something about CycleGAN 
 
-You can get it by:  https://www.jianshu.com/p/5bf937a0d993   or other article is comfortable to you.
+You can get it at:  https://www.jianshu.com/p/5bf937a0d993   or another article that suits you.
 
 
 
@@ -18,7 +18,7 @@ Baidu driver link：https://pan.baidu.com/s/1TjbajGIbNp0Zxf1bXLE98g       code�
 
 
 
-Alternatively you can build your own dataset by setting up the following directory structure:
+Alternatively, you can build your own dataset by setting up the following directory structure:
 
     .
     ├── datasets                   
@@ -36,7 +36,7 @@ The order of A and B is not that important.
 
 run  tain.py to start training the model
 
-The process of the training can be showed in tensorboard:
+The process of the training can be shown in tensorboard:
 
 ```
 tensorboard --logdir=logs
@@ -72,12 +72,15 @@ The output of the model:
 <img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png">
 </div>
 
+
+Contrast of flattening
+
 <div align=center>
 <img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell.png"><img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png"><img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png">
 </div>
 
 
-The order of the images is:    The original image    The ideal image    The output of the model
+
 
 
 ## Acknowledgments
