@@ -52,28 +52,26 @@ run test.py
 
 The original image:
 
-![cell](https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell.png)
 
-
+<div align=center>
+<img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell.png">
+</div>
 
 
 
 The ideal image
 
-![cell_GT](https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png)
-
-
-
 <div align=center>
-<img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png" width="180" height="105">
+<img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/cell_GT.png">
 </div>
 
 
 The output of the model:
 
+<div align=center>
+<img src="https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png">
+</div>
 
-
-![0001](https://github.com/shahelaojieraozhi/CellFluorescenceEnhancement_by_CycleGAN/blob/master/img_bin/0001.png)
 
 ## Acknowledgments
 Code is basically a cleaner and less obscured implementation of [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). 
